@@ -1,0 +1,2 @@
+# slow-learner
+I have been through many programming projects during my bachelors in Electrical &amp; Electronics Engineering. Every time I tried to run away from this serial killer but it did not let me get free. Then one day, I read a quote 'Every day do something out of your comfort zone'. Programming is something which I always get afraid of. After reading that quote I am started learning programming form begging. Let's see where this github profile goes ?
